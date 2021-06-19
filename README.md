@@ -13,7 +13,8 @@ description: 在官網中，註冊一個帳號(想省時間，可直接跳第4�
 5. 記得申請時`username`，稍微思考一下，因為這會決定你的網站的網址， `username`.pythonanywhere.com，而且之後也不能更改
 6. 決定好以後，就如同第一步驟，從官網右上角登入吧!
 7. 登入帳號，會出現小視窗提示你是否要導覽如果不想看就按下End tour ![](.gitbook/assets/dao-lan-ti-shi-.png) 
-8. 
+8. 關掉以後，會看到上面出現warning，但是不必緊張，只是信箱沒有驗證，建議當下就登入信箱應該會有一封信，點擊信箱內連結後送出，就可以完成，
+
  
 
 ![&#x8A3B;&#x518A;&#x50F9;&#x683C;&#x65B9;&#x6848;](.gitbook/assets/zhu-ce-jia-ge-fang-an-.png)
