@@ -6,5 +6,3 @@ description: 請使用Github(如果沒有帳號註冊一個)，用github下載�
 
 1. 創立github帳號並完成信箱驗證，登入畫面後左上角會有一個綠色按鈕Create repository。 ![](.gitbook/assets/github-chuang-jian-deng-ru-shou-ye-.png) 
 2. 3. 
-![&#x767B;&#x5165;&#x756B;&#x9762;](.gitbook/assets/github-chuang-jian-deng-ru-shou-ye-.png)
-
