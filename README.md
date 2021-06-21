@@ -4,8 +4,6 @@ description: 在官網中，註冊一個帳號(想省時間，可直接跳第4�
 
 # 註冊帳號
 
-
-
 1. 點擊前往[官網](www.pythonanywhere.com)
 2. 點選右上角登入\(Log in\)
 3. 點選註冊\(Sign up here!\)=&gt;也可以直接從此連結跳過前面步驟
