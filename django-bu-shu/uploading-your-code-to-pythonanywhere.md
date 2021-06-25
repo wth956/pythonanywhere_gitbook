@@ -6,7 +6,7 @@ description: 請使用Github(如果沒有帳號註冊一個)，用github下載�
 
 首先，成功上傳完成後，打開github的repository，點選綠色按鈕Code，會出現一個小選單， \(預設\)會選擇Https，你只要將游標移到網址最後面，會有像記事本的圖案，按下之後會顯示Copied!。 
 
-![&#x8907;&#x88FD;&#x7DB2;&#x5740;&#x793A;&#x610F;&#x5716;](.gitbook/assets/githubrepo-wang-zhi-fu-zhi-.png)
+![&#x8907;&#x88FD;&#x7DB2;&#x5740;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/githubrepo-wang-zhi-fu-zhi-.png)
 
 
 
@@ -18,7 +18,7 @@ description: 請使用Github(如果沒有帳號註冊一個)，用github下載�
 git clone https://github.com/myusername/myproject.git
 ```
 
-![Bash&#x6210;&#x529F;&#x57F7;&#x884C;&#x756B;&#x9762;](.gitbook/assets/clone-zi-ji-de-github.png)
+![Bash&#x6210;&#x529F;&#x57F7;&#x884C;&#x756B;&#x9762;](../.gitbook/assets/clone-zi-ji-de-github.png)
 
 
 
