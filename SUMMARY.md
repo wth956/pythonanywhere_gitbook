@@ -4,8 +4,9 @@
 
 ## Django部屬 <a id="group-django-deploy"></a>
 
-* [Django官網部署教學\(英文\)](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject)
+* [DjangoDocument官方文件](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject)
 * [上傳Django資料夾](group-django-deploy/upload-django-folder.md)
-* [Untitled](group-django-deploy/untitled-1.md)
+* [設定環境與安裝套件](group-django-deploy/using-virtual-environments-in-django.md)
+* [Untitled](group-django-deploy/untitled-2.md)
 * [Untitled](group-django-deploy/untitled.md)
 
