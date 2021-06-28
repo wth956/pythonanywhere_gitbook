@@ -12,7 +12,7 @@ description: 請使用Github(如果沒有帳號註冊一個)，用github下載�
 
 
 
-接著登入pythonanywhere，左下方會有一個藍色按鈕$Bash，按下去稍微等個幾秒鐘。
+接著登入pythonanywhere，左下方會有一個藍色按鈕$Bash，按下去稍微等個幾秒鐘，會出現一個黑色畫面我們稱為終端機。
 
 語法範例如下圖，這時我在這邊只要將複製的網址改成我們自己的，貼clone後面即可。  
 
